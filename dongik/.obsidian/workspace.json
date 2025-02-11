@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "c6aa07331f20ae68",
+    "type": "split",
+    "children": [
+      {
+        "id": "50be67b8caa4b3f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "118f63148b73bce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/restaurant_service/1_Django기초_250212.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1_Django기초_250212"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efccf87dce49c9cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b42ac9333e266255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff2dd5b8c30fc026",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29ec51a280f97ca8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0073b2ae0335c767",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3a14d619ddc48736",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e09642c49a2fd78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3494a2d46c3f0033",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/restaurant_service/1_Django기초_250212.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1_Django기초_250212"
+            }
+          },
+          {
+            "id": "e69f25073e57e9c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python/restaurant_service/1_Django기초_250212.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1_Django기초_250212"
+            }
+          },
+          {
+            "id": "7d5ea7e0968da459",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a728e8f0125aefcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python/restaurant_service/1_Django기초_250212.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1_Django기초_250212"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "118f63148b73bce8",
+  "lastOpenFiles": [
+    "python/restaurant_service/2_DB연결 및 모델 필드 이해_250212.md",
+    "python/restaurant_service/1_Django기초_250212.md",
+    "Untitled.md",
+    "python/restaurant_service",
+    "python",
+    "Welcome.md"
+  ]
+}
